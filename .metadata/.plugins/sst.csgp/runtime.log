@@ -1,0 +1,30 @@
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [1/26, 2017   17:14  40.609]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : C:\Github\DMMSwitchBoard\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [1/26, 2017   17:14  43.3]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [1/26, 2017   17:19  51.881]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : C:\Github\DMMSwitchBoard\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [1/26, 2017   17:19  54.117]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [1/26, 2017   17:24  5.992]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : C:\Github\DMMSwitchBoard\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [1/26, 2017   17:24  8.176]
+------------------------------------

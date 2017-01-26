@@ -1,0 +1,3 @@
+com.atollic.hardwaredebug.jlink.location=C\:\\Program Files (x86)\\SEGGER\\JLink_V512i\\JLinkGDBServer.exe
+com.atollic.hardwaredebug.jlink.working_dir=C\:\\Users\\Derryn Harvie\\Documents\\working
+eclipse.preferences.version=1
