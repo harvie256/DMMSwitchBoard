@@ -123,46 +123,6 @@ Variation1=Designator=R7|UniqueId=\ISTBVQHJ|Kind=1|AlternatePart=
 Variation2=Designator=R9|UniqueId=\IJTFNLUD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.Outline
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for DMMSwitchBoard\DMMSwitchBoard.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=oshw (1).LOG
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -189,7 +149,7 @@ OutputDefault1=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP Color LaserJet CP1215
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 
 [OutputGroup3]
